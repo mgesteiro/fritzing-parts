@@ -5,8 +5,11 @@ A fritzing part for the 28BYJ-48 Stepper Motor with its JST connector and all th
 
 Have a look at the [28BYJ-48 ULN2003 driver module part](../28BYJ-48-driver/) also.
 
-## NOTE
-The connector pins are marked as **male** instead of the correct **female** type as a trick to *help* Fritzing connect it to the driver module more easily (where the same trick is applied).
+## NOTES
+
+* The connector pins are incorrectly marked as **male** on purpose as a trick to *help* Fritzing connect it to the driver module more easily (where the same trick is applied).
+
+* Used some of [the fritzing tools by @Vanepp](https://github.com/vanepp): go check them.
 
 ## LICENSE
 
