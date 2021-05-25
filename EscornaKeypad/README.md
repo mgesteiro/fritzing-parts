@@ -1,11 +1,12 @@
 # Escornabot 5 keys Keypad
-A fritzing part for the Escornabot 5 keys Keypad with bendable legs/connectors.
+A fritzing part for the [Escornabot 5 keys Keypad](https://github.com/mgesteiro/escornakeypad) with bendable legs/connectors.
 
 ![EscornaKeypad](EscornaKeypad.png)
 
 ## NOTES
 
 * Part of the [Escornabot project](https://escornabot.org).
+* Fritzing part of the [original design](https://github.com/mgesteiro/escornakeypad).
 * Used some of [the fritzing tools by @Vanepp](https://github.com/vanepp): go check them.
 
 ## LICENSE
