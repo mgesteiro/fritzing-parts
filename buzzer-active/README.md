@@ -1,11 +1,7 @@
-# Passive Buzzer 12 mm 3-5V
-A fritzing part of a passive buzzer 12 mm 3-5V without breakout board and with bendable legs.
+# Active buzzer 12mm, 3-5V
+A fritzing part of an active buzzer of 12mm diameter and 3-5V, without a breakout board and with bendable legs.
 
-![PassiveBuzzer](PassiveBuzzer.png)
-
-## NOTES
-
-* Used some of [the fritzing tools by @Vanepp](https://github.com/vanepp): go check them.
+![active buzzer](buzzer-active.png)
 
 ## LICENSE
 
