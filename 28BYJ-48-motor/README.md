@@ -7,7 +7,7 @@ Have a look at the [28BYJ-48 ULN2003 driver module part](../28BYJ-48-driver/) al
 
 ## NOTES
 
-* The connector pins are incorrectly marked as **male** on purpose as a trick to *help* Fritzing connect it to the driver module more easily (where the same trick is applied).
+* The connector pins are incorrectly marked as **male** on purpose as a trick to *help* Fritzing connect it to the driver module more easily (where the inverse trick is applied).
 
 * Used some of [the fritzing tools by @Vanepp](https://github.com/vanepp): go check them.
 
