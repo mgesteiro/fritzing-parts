@@ -1,9 +1,12 @@
 # 4-digit 7-segment LED display
-A fritzing part of a 4-digit 7-segment LED display driven by a TM1637 IC controller in a brekout board. 4-pin connection operated via 1-wire protocol (a simplified version of I2C protocol).
+
+Two fritzing parts of a 4-digit 7-segment LED display module driven by a TM1637 IC controller via 1-wire protocol (a simplified version of I2C protocol):
+
+* [Robotdyn version](4-digit-display_8pingreen_Rt.fzpz) with duplicate 4-pin rows, in green color
+* [HiLetgo version](4-digit-display_4pinred_Rt.fzpz) with a single 4-pin row, in red color
 
 ![4-digit-display](4-digit-display_Rt.png)
 
-\[[Download link](4-digit-display_Rt.fzpz)\]
 
 ## LICENSE
 
